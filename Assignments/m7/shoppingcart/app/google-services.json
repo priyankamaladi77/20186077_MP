@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239819853581",
+    "firebase_url": "https://shoppingcart-903b1.firebaseio.com",
+    "project_id": "shoppingcart-903b1",
+    "storage_bucket": "shoppingcart-903b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239819853581:android:553d89752b89d373",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239819853581-e9vgtc2eequbik69agnid6ach4sb9iu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingcart",
+            "certificate_hash": "2de2b374047507b197650590f054371ed124a5da"
+          }
+        },
+        {
+          "client_id": "239819853581-gm5717t29e4u2lp2rr26g4m4c5efqicd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcmQ1-uvxPB1p_TDpkV2Zv6OPHi1KgGe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239819853581-gm5717t29e4u2lp2rr26g4m4c5efqicd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
